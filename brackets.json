@@ -1,0 +1,32 @@
+{
+    "bb.beautify.onSave": true,
+    "path": {
+        "thirdparty/**.js": {
+            "bb.beautify.onSave": false
+        },
+        "**min**.js": {
+            "bb.beautify.onSave": false
+        }
+    },
+    "language": {
+        "php": {
+            "bb.beautify.onSave": false
+        }
+    }
+}
+
+{
+    "css": "css",
+    "ejs": "html",
+    "handlebars": "html",
+    "html": "html",
+    "javascript": "js",
+    "json": "js",
+    "jsx": "js",
+    "less": "css",
+    "php": "html",
+    "scss": "css",
+    "svg": "html",
+    "vue": "html",
+    "xml": "html"
+}
